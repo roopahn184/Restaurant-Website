@@ -1,0 +1,9 @@
+.coffe-selection h1{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.coffe-selection img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}

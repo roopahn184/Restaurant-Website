@@ -1,5 +1,4 @@
 import React from 'react';
-// import {faBars, faTimes} from 'react-icons/fa';
 import logo from '../src/assets/logo.png';
 import {Link, NavLink} from 'react-router-dom';
 import '../src/Navbar.css'
